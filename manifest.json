@@ -1,0 +1,10 @@
+{
+  "name": "T9",
+  "id": "1311777988952403227",
+  "api": "1.0.0",
+  "editorType": ["figma"],
+  "permissions": [],
+  "main": "code.js",
+  "ui": "index.html",
+  "networkAccess": { "allowedDomains": ["none"] }
+}
